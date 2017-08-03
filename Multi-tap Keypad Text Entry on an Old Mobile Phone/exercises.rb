@@ -15,7 +15,7 @@ def presses(input)
   hash[1] = ['1','A','D','G','J','M','P','T','W','*',' ','#']
   hash[2] = ['B','E','H','K','N','Q','U','X','0']
   hash[3] = ['C','F','I','L','O','R','V','Y']
-   hash[4] = ['S','Z','2','3','4','5','6','8']
+  hash[4] = ['S','Z','2','3','4','5','6','8']
   hash[5] = ['7','9']
   input = input.upcase.chars
   amount = 0
